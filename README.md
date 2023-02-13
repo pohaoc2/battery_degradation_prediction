@@ -24,3 +24,9 @@
 2. Physics informed neural network + Transformer?
 3. Cycle images -> CNN -> extracted features -> NN -> battery lifetime
 4. Conditional GAN to suggest material for batteries with desired lifetime.
+
+## Some hints
+__user_story_hierachy__
+![user_story_hierachy](images/user_story_hierachy.png)
+__steps_in_design__
+![steps_in_design](images/steps_in_design.png)
