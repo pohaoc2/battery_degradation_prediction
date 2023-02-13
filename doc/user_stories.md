@@ -1,33 +1,3 @@
-Goal:
-
-●	I’d like to give the model a “database” of battery data, and given said data, split into a test and dev data sets, train a model with the training dataset, and test the trained model against the dev set, and give an “accuracy” of how well we can predict the end of the batteries “1st life” (ie when the batteries initial discharge capacity decreases 80% of its original capacity) with as few initial cycles as possible…
-○	Enter the known data set with chem
-●	Give an estimated life time of battery, and model suggests which chemistry is the best to use	
-○	Enter the life time of a battery, and output the best “battery” to get said cycle life that you want
-●	Use case 1, looking at different conditions
-
- 
- 
-
-One is you start with viewing known data sets, and it will tell you an estimate battery life, how does the performance vary with outside, from a real world data 
-
-Main goal, we enter xx many cycles, and it will predict 
-
-To compare how many input cycles do we need to input into a model to get the same performance/accuracy of without having the full data set
-
-How many data do we need to train the model to make the model more accurate
-I use only one cycle → NNOO → results will be bad
-We want to give the user more robust results
-
-Methods?
-
-Time Series Analysis - 
-Physics informed neural network + Transformer?
-Cycle images -> CNN -> extracted features -> NN -> battery lifetime
-
-
-
-
 User Story 1 - Informed consumer
 Karen is a proud owner of a cellular device and your average well informed technology enthusiast. Currently, Karen is looking to purchase a new cellular device, and wants to know which newest phone model will have the longest lasting battery life to make the most informed decision. Karen is proficient at navigating websites, but doesn’t have a technical background. Therefore, Karen is looking for a simple interface that allows her to select a phone model(s) (i.e., battery chemistrie(s)), and it will output an estimated “lifetime” of the phone battery.
 
