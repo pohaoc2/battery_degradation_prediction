@@ -56,9 +56,9 @@ Paul is a battery researcher. He has been working in the battery field for over 
 - User: Select plot graph that interest
 - System: output the graph User selected
 
-- Sample graph (ref?) ![Sample graph](../images/capacity_vs_cycle.png)
+- Sample graph (ref?) 
 
-
+![Sample graph](../images/capacity_vs_cycle.png)
 # User Story 3 - Process/Environmental Engineer 
 ## Use Case
 - Reduce over-purchasing of chargeable batteries for their vehicle fleet and reduce waste production/management costs.
