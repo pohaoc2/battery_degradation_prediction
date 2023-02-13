@@ -65,7 +65,6 @@ data/
 results/
 *.gif
 *.tif
-*.png
 
 # Translations
 *.mo
