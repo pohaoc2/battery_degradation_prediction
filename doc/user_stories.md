@@ -55,8 +55,8 @@ Paul is a battery researcher. He has been working in the battery field for over 
 - System: Asks user to select the plot graph of interest (for example, cycle number vs. capacity)
 - User: Select plot graph that interest
 - System: output the graph User selected
-__Sample graph__ (ref?)
-![Sample graph](../images/capacity_vs_cycle.png)
+
+- Sample graph (ref?) ![Sample graph](../images/capacity_vs_cycle.png)
 
 
 # User Story 3 - Process/Environmental Engineer 
