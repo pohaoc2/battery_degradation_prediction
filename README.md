@@ -1,4 +1,4 @@
-# Goal of this project
+# Po Hao <3
 
 # I think we should do the capstone!!!
 
