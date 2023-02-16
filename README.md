@@ -1,5 +1,7 @@
 # Goal of this project
 
+# I think we should do the capstone!!!
+
 ## Establish a supervised neural network predicting the lifetime of the battery
 
 1. I’d like to give the model a “database” of battery data, and given said data, split into a test and dev data sets, train a model with the training dataset, and test the trained model against the dev set, and give an “accuracy” of how well we can predict the end of the batteries “1st life” (ie when the batteries initial discharge capacity decreases 80% of its original capacity) with as few initial cycles as possible…
