@@ -1,8 +1,4 @@
-# PO-HAO is adorable
 # Goal of this project
-# Po Hao <3
-
-# I think we should do the capstone!!!
 
 ## Establish a supervised neural network predicting the lifetime of the battery
 
