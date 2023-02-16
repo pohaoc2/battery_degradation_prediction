@@ -1,3 +1,4 @@
+# PO-HAO is adorable
 # Goal of this project
 
 # I think we should do the capstone!!!
