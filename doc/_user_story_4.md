@@ -23,4 +23,5 @@ Sean is a data scientist who is good using machine learning techniques to predic
 - User: Click __Choose visualize results__
 - System: Launch __plot packages__
 - System: What types of figures you want to generate?
-- User: Select one option, e.g., loss-iteration, confusion matrix, 
+- User: Select one option, e.g., loss-iteration, confusion matrix
+- System: 
